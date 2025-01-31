@@ -1,0 +1,19 @@
+{
+  "name": "KLib-Sensor",
+  "version": "1.0.0",
+  "description": "Simple sensor class for value tracking and change detection",
+  "keywords": "sensor, monitoring, tracking",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KazaLab/KLib-Sensor.git"
+  },
+  "authors": [
+    {
+      "name": "Julien K.",
+      "email": "code@juli3n.xyz",
+      "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
